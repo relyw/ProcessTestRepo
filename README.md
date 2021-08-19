@@ -6,3 +6,6 @@ second line
 
 
 Star added.
+
+
+Star added again.
